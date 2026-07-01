@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0133/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分戒本疏卷第一．第二．第三
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2787.xml
+    old_id: T85n2787
+hash: sha256:a0f8ba0f02819a6bfff65edbadcf68e473780c8b670508298029219795a48e75

@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6k0133/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0133/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分戒本疏卷第一．第二．第三
+  identifiers:
+    krp: KR6k0133
+    cbeta: T85n2787
+    cbeta_old_id: T85n2787
+    authorityid: CA0004807
+    json_key: T2787
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2787.xml
+    old_id: T85n2787
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0133_000-T.yaml, hash: 'sha256:a0f8ba0f02819a6bfff65edbadcf68e473780c8b670508298029219795a48e75'}
+  - {seq: 1, filename: KR6k0133_001-T.yaml, hash: 'sha256:30d6dc45aac6d05d1fcebeb52494efe13ad229579b48f82835ab569abcaad765'}
+  - {seq: 2, filename: KR6k0133_002-T.yaml, hash: 'sha256:8a26fb49b5686687cb6b6771a162b6ceb74560fcea4638f0f6c3b3fe9eac19d9'}
+  - {seq: 3, filename: KR6k0133_003-T.yaml, hash: 'sha256:9e7aca80216e9358892bdc0e785cec6264c94d36e279a91a95423ae75874d039'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0133_000-T.markers.yaml, hash: 'sha256:f5e84a092aec149a7ce9ba6ec943734ec9d9245d0bf7c517b50bc9fcd88739ab'}
+  - {seq: 1, role: markers, filename: assets/KR6k0133_001-T.markers.yaml, hash: 'sha256:d8e5fc411f67141558864f982615b37aa78d1ac5a078037956c7bf931b7490d3'}
+  - {seq: 2, role: markers, filename: assets/KR6k0133_002-T.markers.yaml, hash: 'sha256:ca430a0fff54adf9390b193849113176666014e3dc2dbc3ac98a21e38be54b4a'}
+  - {seq: 3, role: markers, filename: assets/KR6k0133_003-T.markers.yaml, hash: 'sha256:7edf94747a723a6fcd8bf2a8f9750964675914852c8f6874b5aa37d62d85a12e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0133_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5913
+  label: 四分戒本疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0133_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 33809
+  label: 四分戒本疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0133_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 31037
+  label: 四分戒本疏卷第三
+  type: juan
+  level: 1
+hash: sha256:b8fbd741abd9affcd29db221d0c9d80b19e0b2287775052d6241a32e8a0c8548
