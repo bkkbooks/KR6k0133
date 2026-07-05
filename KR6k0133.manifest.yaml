@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0133_000.yaml, hash: 'sha256:a0f8ba0f02819a6bfff65edbadcf68e473780c8b670508298029219795a48e75'}
-  - {seq: 1, filename: KR6k0133_001.yaml, hash: 'sha256:f7e8431703c0994e8dc1c58021f76318817d9438161c897fe93536656f2280e6'}
-  - {seq: 2, filename: KR6k0133_002.yaml, hash: 'sha256:74d58911e819250575a5664cce6215e7de76cf5731b751e5169d50564eec187f'}
-  - {seq: 3, filename: KR6k0133_003.yaml, hash: 'sha256:7ff2057fb67f5365d52bfbd8ada05c6cdde44a92767087868546b69bd1cdacdf'}
+  - {seq: 1, filename: KR6k0133_001.yaml, hash: 'sha256:30d6dc45aac6d05d1fcebeb52494efe13ad229579b48f82835ab569abcaad765'}
+  - {seq: 2, filename: KR6k0133_002.yaml, hash: 'sha256:8a26fb49b5686687cb6b6771a162b6ceb74560fcea4638f0f6c3b3fe9eac19d9'}
+  - {seq: 3, filename: KR6k0133_003.yaml, hash: 'sha256:9e7aca80216e9358892bdc0e785cec6264c94d36e279a91a95423ae75874d039'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0133_001.markers.yaml, hash: 'sha256:2553232e45de2100cbcf91b8c6aa841c96a014f826328eb1e20ad89799382b39'}
-  - {seq: 2, role: markers, filename: assets/KR6k0133_002.markers.yaml, hash: 'sha256:55371b8a3f673b1abb9829040aaea2754a63a36ac488f507b15a6ae00793942e'}
-  - {seq: 3, role: markers, filename: assets/KR6k0133_003.markers.yaml, hash: 'sha256:97180c2deef5b118867babf81501da448e338a6db32bf93b518fb69f4909ba65'}
+  - {seq: 0, role: markers, filename: assets/KR6k0133_000.markers.yaml, hash: 'sha256:94320041436ee9b0672970f4690bb548fd6c786866aa66916bcb7fd3f1d9cce0'}
+  - {seq: 1, role: markers, filename: assets/KR6k0133_001.markers.yaml, hash: 'sha256:b8f6f95b51b2ff675020f82ab62ee4eaf7beb30a375268dee939db564eb75f61'}
+  - {seq: 2, role: markers, filename: assets/KR6k0133_002.markers.yaml, hash: 'sha256:6f7eedf744b33d5fd30ca037a0e820e456d4d7255fb53cda948d6d6a970324ed'}
+  - {seq: 3, role: markers, filename: assets/KR6k0133_003.markers.yaml, hash: 'sha256:4c91413bd7553b5fe50c91fed75403f60281056361029f55f17d4ce1cf67dd81'}
 table_of_contents:
 - ref:
     seq: 1
@@ -63,7 +64,4 @@ table_of_contents:
   label: 四分戒本疏卷第三
   type: juan
   level: 1
-hash: sha256:fbd5b81b9aaf905b57d9133b9bf74e7bc200601640bf62488da7793bdecc4f9e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3aaae90486c338d74245841129d3df4214a984e2f832d7303071815b49573316
