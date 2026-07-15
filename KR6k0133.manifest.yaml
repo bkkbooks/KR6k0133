@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0133/v1
 canonical_location: https://kanripo.org/bkk/KR6k0133/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 四分戒本疏卷第一．第二．第三
   identifiers:
@@ -25,14 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0133_000.yaml, hash: 'sha256:a0f8ba0f02819a6bfff65edbadcf68e473780c8b670508298029219795a48e75'}
-  - {seq: 1, filename: KR6k0133_001.yaml, hash: 'sha256:30d6dc45aac6d05d1fcebeb52494efe13ad229579b48f82835ab569abcaad765'}
-  - {seq: 2, filename: KR6k0133_002.yaml, hash: 'sha256:8a26fb49b5686687cb6b6771a162b6ceb74560fcea4638f0f6c3b3fe9eac19d9'}
-  - {seq: 3, filename: KR6k0133_003.yaml, hash: 'sha256:9e7aca80216e9358892bdc0e785cec6264c94d36e279a91a95423ae75874d039'}
+  - {seq: 1, filename: KR6k0133_001.yaml, hash: 'sha256:cb0682c188a2b48bb34f4a1320db5fd6334ddb59849d7a14cded42943cbe0e9e'}
+  - {seq: 2, filename: KR6k0133_002.yaml, hash: 'sha256:e6d6c6a9bc38ef2163febd36ffcef3d2429eaac53afcf0463c1222008b1317ae'}
+  - {seq: 3, filename: KR6k0133_003.yaml, hash: 'sha256:b2706451cd65a9aad8965eacadd5d540136ea089f5df478f7a2718125fac2df1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0133_000.markers.yaml, hash: 'sha256:94320041436ee9b0672970f4690bb548fd6c786866aa66916bcb7fd3f1d9cce0'}
-  - {seq: 1, role: markers, filename: assets/KR6k0133_001.markers.yaml, hash: 'sha256:b8f6f95b51b2ff675020f82ab62ee4eaf7beb30a375268dee939db564eb75f61'}
-  - {seq: 2, role: markers, filename: assets/KR6k0133_002.markers.yaml, hash: 'sha256:6f7eedf744b33d5fd30ca037a0e820e456d4d7255fb53cda948d6d6a970324ed'}
-  - {seq: 3, role: markers, filename: assets/KR6k0133_003.markers.yaml, hash: 'sha256:4c91413bd7553b5fe50c91fed75403f60281056361029f55f17d4ce1cf67dd81'}
+  - {seq: 1, role: markers, filename: assets/KR6k0133_001.markers.yaml, hash: 'sha256:e7a3698cd1b772635fb6250d6ff5d025d38f92c748e38cf0d4a049f29d1ea067'}
+  - {seq: 2, role: markers, filename: assets/KR6k0133_002.markers.yaml, hash: 'sha256:9d63e2696f53d372bf7ab25b24cb558f20bde8e310e3fa0be277124436748b33'}
+  - {seq: 3, role: markers, filename: assets/KR6k0133_003.markers.yaml, hash: 'sha256:3901d2b3930487875b80943af17593f667c8afee2f45e2ceb50699df00b25036'}
 table_of_contents:
 - ref:
     seq: 1
@@ -64,4 +64,7 @@ table_of_contents:
   label: 四分戒本疏卷第三
   type: juan
   level: 1
-hash: sha256:3aaae90486c338d74245841129d3df4214a984e2f832d7303071815b49573316
+hash: sha256:36f5cb0387c0bcacfec090a0481e8ee999752bca6dd6db1103f3ad949b0b73fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
